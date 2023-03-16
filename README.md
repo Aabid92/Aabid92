@@ -1,7 +1,7 @@
 ![linkedit-cover-Recovered](https://user-images.githubusercontent.com/40827170/216754935-2e80cb7f-c035-4a27-bdf7-5c6bcd8dd576.png)
 
 - 👋 Hi, I’m @Aabid92
-- 👀 I’m interested in Python|SQL|Data Analysis|Data Science|Data Engineering 
+- 👀 I’m interested in Python|SQL|MongoDB|Data Analysis|Data Science|Data Engineering 
 - 🌱 I’m currently learning Python Programming
 - 📈 Learing more about Data Analysis, Data Science to Become Data Warrior.
 - 💞️ I’m looking to collaborate on Data Science Projects.
