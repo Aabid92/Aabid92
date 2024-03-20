@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Python Programming
 - 📈 Learing more about Data Analysis, Data Science to Become Data Warrior.
 - 💞️ I’m looking to collaborate on Data Science Projects.
+- LinkedIn => https://www.linkedin.com/in/aabidshaikh92/
 - 📫 How to reach me, you can visit my porfolio => https://aabidshaikh.pages.dev/ or gmail => shaikhaabid608@gmail.com
 
 <!---
